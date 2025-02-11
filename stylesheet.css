@@ -1,0 +1,17 @@
+body {
+    background-color: #01fe0e;
+  }
+h1 {
+    padding: 20px;
+    justify-content: center;
+    color: red;
+}
+p1 {
+    padding: 100px;
+    justify-content: center;
+    color:red
+}
+img {
+    padding:50px;
+    justify-content: left;
+}
