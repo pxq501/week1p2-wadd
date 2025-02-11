@@ -1,12 +1,13 @@
 body {
     background-color: #01fe0e;
+    display: flex;
   }
 h1 {
     padding: 20px;
     justify-content: center;
     color: red;
 }
-p1 {
+p {
     padding: 100px;
     justify-content: center;
     color:red
